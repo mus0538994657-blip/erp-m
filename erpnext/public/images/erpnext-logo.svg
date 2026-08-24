@@ -1,4 +1,6 @@
-<svg width="118" height="118" viewBox="0 0 118 118" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M0 20C0 8.9543 8.9543 0 20 0H97.03C108.076 0 117.03 8.9543 117.03 20V97.03C117.03 108.076 108.076 117.03 97.03 117.03H20C8.9543 117.03 0 108.076 0 97.03V20Z" fill="#067EFB"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M78.8631 38.557H76.9H51.38H38.6199V28.0872H78.8631V38.557ZM51.3799 63.0955V77.4915H79.1903V87.9612H38.6199V52.6257H51.3799H76.9V63.0955H51.3799Z" fill="white"/>
+<svg width="118" height="118" viewBox="0 0 118 118" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ERP-PRODUCT">
+<rect width="118" height="118" rx="24" fill="#111827"/>
+<path d="M27 30H57V42H40V53H55V65H40V76H58V88H27V30Z" fill="#F8FAFC"/>
+<path d="M65 30H91C101 30 108 37 108 47C108 57 101 64 91 64H78V88H65V30ZM78 42V52H89C93 52 95 50 95 47C95 44 93 42 89 42H78Z" fill="#38BDF8"/>
+<path d="M24 96H94" stroke="#38BDF8" stroke-width="6" stroke-linecap="round"/>
 </svg>
